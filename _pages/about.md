@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://journalism.berkeley.edu/'>University of California, Berkeley, School of Journalism</a>. I tell data-driven stories.  
 
 profile:
   align: right
@@ -14,9 +14,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+ I am a first year Master's journalism student at the University of California, Berkeley. I focus on data reporting and data visualization. I have already produced data-driven projects, such as a map tracking sheltered women's percentage change from 2021 to 2022. Additionally, I'm working on a side project that analyzes the correlations between mental disabilities and factors such as race, age, and income across various counties. 
+ 
+ Previously, I was a reporter at a weekly financial magazine in Taiwan with a focus on politics, culture and education. I discovered an investment misconduct by reviewing the Labor Pension Fund’s documents. I won the Taiwan New Economy Foundation’s Financial Awards with this story. Later, I transitioned to a monthly geographic magazine, focusing on climate change. I used open data to expose flaws in Taiwan’s new energy framework. 
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+With over two years of reporting experience and a strong background in Economics, I possess the skills needed for both reporting and data analysis. I developed a judgment for news, and I am proficient in R, Python, SPSS, and Excel.

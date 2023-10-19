@@ -5,7 +5,7 @@ permalink: /projects/
 description: Oops! Still working on it...
 nav: true
 nav_order: 2
-display_categories: [2023, 2022]
+display_categories: [2023, 2019]
 horizontal: false
 ---
 

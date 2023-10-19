@@ -34,16 +34,26 @@ $$Y = β_0 + β_1X_{ko} + β_2X_{lai} + β_3X_{chu} + β_4X_{han} + β_5X_{trut}
 
 In this equation: 
 
-$$Y$$ represents "overall satisfaction with President Tsai Ing-wen's governance" 
+$$Y$$ represents "overall satisfaction with President Tsai Ing-wen's governance"
+
 $$X_{ko}$$ represents "preference for Ko Wen-je" 
+
 $$X_{lai}$$ represents "preference for Lai Ching-te" 
+
 $$X_{chu}$$ represents "preference for Chu Li-lun" 
+
 $$X_{han}$$ represents "preference for Han Kuo-yu" 
+
 $$X_{trut}$$ represents "trust in Tsai Ing-wen" 
+
 $$X_{truc}$$ represents "trust in China" 
+
 $$X_{lead}$$ represents "satisfaction with Tsai Ing-wen's leadership" 
+
 $$X_{sex}$$ represents the "gender"
+
 $$X_{educ}$$ represents the "education level"
+
 $$u_{i}$$ represents the error or residual term in the equation
 
 Here is the result!

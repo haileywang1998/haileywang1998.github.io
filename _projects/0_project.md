@@ -2,7 +2,7 @@
 layout: page
 title: No Safe Place to Sleep for Homeless Women in Oakland 
 description: a regression model with R language
-img: assets/img/t-value.png
+img: assets/img/shelter.png
 importance: 1
 category: 2023
 related_publications: 
@@ -22,7 +22,14 @@ Dilara Yarbrough, associate professor of criminal justice studies at San Francis
 
 Yarbrough said that lack of capacity could be another reason driving the percentage drop in sheltered women.
 
-![A map that shows percentage change of sheltered women from 2021 to 2022 in the U.S.](https://datawrapper.dwcdn.net/K0Tyy/1/)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/shelter.png" title="shelter image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A map that shows percentage change of sheltered women from 2021 to 2022 in the U.S.
+</div>
 
 Generally, there are more services for unhoused men because they comprise a greater share of the total unhoused population, making it harder for women to find shelters and other services, said Elizabeth Bowen, associate professor at the University at Buffalo School of Social Work.
 

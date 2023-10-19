@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Oops! Still working on it...
+description: 
 nav: true
 nav_order: 2
 display_categories: [2023, 2019]

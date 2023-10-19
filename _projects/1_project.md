@@ -1,81 +1,74 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: An analysis of factors deciding support for President Tsai Ing-wen
+description: a regression model with R language
+img: assets/img/t-value.png
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: 2019
+related_publications: 
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+As the 2020 presidential election loomed, people were curious about the factors that influenced their assessment of a president's performance and their decision to re-elect them.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+In my research, Tsai Ing-wen was Taiwan's president at that time, preparing for her second term. To understand what factors swayed voters, I analyzed data from a 2019 survey on Tsai's governance satisfaction conducted by the Taiwan Election and Democratization Study. 2,298 individuals participated in the poll. I selected nine specific factors from the poll and constructed a regression model with R language to examine their correlation with support for Tsai.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+I analyzed nine factors in this research. I will briefly introduce each of them:
+1. *Voters’ gender*
+2. *Voters’ education level*
+3. *Trust in China*
+Tsai was the leader of the pro-independence ruling Democratic Progressive Party, so voters' attitude toward China might affect their support for Tsai.
+4. *Preference for Ko Wen-je*
+5. *Preference for Chu Li-lun*
+6. *Preference for Han Kuo-yu*
+These three people are competitors from Tsai’s rival parties.
+8. *Preference for Lai Ching-te*
+ Lai is in the same party as Tsai. They were debating on who to run the next turn at that time.
+10. *Satisfaction with Tsai’s leadership*
+Participants rated Tsai’s governance performance in the poll based on her first turn.
+12. *Trust in Tsai.* 
+In the poll, participants rated whether they trusted Tsai.
+
+The multiple regression equation is:
+
+$Y = β_0 + β_1X_{ko} + β_2X_{lai} + β_3X_{chu} + β_4X_{han} + β_5X_{trut} + β_6X_{truc} + β_7X_{lead} + β_8X_{sex} + β_9X_{educ} + u_i$
+
+In this equation: 
+
+$Y$ represents "overall satisfaction with President Tsai Ing-wen's governance" 
+$X_{ko}$ represents "preference for Ko Wen-je" 
+$X_{lai}$ represents "preference for Lai Ching-te" 
+$X_{chu}$ represents "preference for Chu Li-lun" 
+$X_{han}$ represents "preference for Han Kuo-yu" 
+$X_{trut}$ represents "trust in Tsai Ing-wen" 
+$X_{truc}$ represents "trust in China" 
+$X_{lead}$ represents "satisfaction with Tsai Ing-wen's leadership" 
+$X_{sex}$ represents the "gender"
+$X_{educ}$ represents the "education level"
+$u_{i}$ represents the error or residual term in the equation
+
+Here is the result!
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/t-value.png" title="t-value image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    T-value of factors affecting support for Tsai.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+For each factor, if the absolute value of the t-value is larger than 1.96, it means that the factor is statistically significant under 95% confidence level. Here, we see “Preference for Ko,” “Preference for Han,” “Satisfaction with Tsai’s leadership,” and “Trust in Tsai” are the factors that statistically affect voters’ support for Tsai. Other factors have no significance.
 
+🌸 **Findings:** 🌸
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+The results revealed that "Preference for Ko," "Preference for Han," "Satisfaction with Tsai's leadership," and "Trust in Tsai" significantly influenced support for Tsai. Other factors didn't show statistical significance.
 
+Interestingly, mainstream media in Taiwan suggested that Tsai's female identity would attract more female voters. However, my findings contradicted this perception, as there was no statistical correlation between gender and support for Tsai.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The Democratic Progressive Party (DPP), to which Tsai Ing-wen belonged, had two internal groups, one supporting Lai Ching-te for the presidency and the other backing Tsai for running for another term. Despite media expectations that people who support Lai were less likely to support Tsai, there was no statistically significant relationship between the two factors. 
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+When we delve into the reasons for support, "Satisfaction with Tsai's leadership" and "Trust in Tsai" stood out. These two indicators directly reflected participants' views on her performance during her first term. It appeared that voters were more influenced by performance rather than their own identity factors like gender and education level.
+
+"Preference for Ko" and "Preference for Han" demonstrated that political affiliations played a role in candidate support. Ko Wen-Je, although an independent candidate, aligned closely with the DPP's values, and his supporters were more likely to support Tsai. Conversely, Han Kuo-yu, Tsai's toughest rival, came from a different party, and his supporters were less likely to back Tsai.
+
+In conclusion, this research provided valuable insights into the factors affecting support for Tsai, challenging some popular assumptions. Gender and loyalty to another candidate in Tsai's party, for instance, were found to have no impact on voters' support for the President.

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: No Safe Place to Sleep for Homeless Women in Oakland 
-description: a regression model with R language
+description: Analyzing data to illustrate struggles of unhoused women 
 img: assets/img/shelter.png
 importance: 1
 category: 2023

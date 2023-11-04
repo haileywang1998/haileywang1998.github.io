@@ -3,7 +3,7 @@ layout: page
 title: An analysis of factors affecting support for President Tsai 
 description: a regression model with R language
 img: assets/img/t-value.png
-importance: 1
+importance: 3
 category: 2019
 related_publications: 
 ---

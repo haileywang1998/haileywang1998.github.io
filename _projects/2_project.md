@@ -3,7 +3,7 @@ layout: page
 title: Oakland's Bulky Block Parties
 description: a data-driven project discussing illegal dumping solution
 img: assets/img/dumpung.png
-importance: 1
+importance: 4
 category: 2023
 giscus_comments: false
 ---

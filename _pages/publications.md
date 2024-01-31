@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My works at Rhythmns Monthly Magazine and Business Weekly Magazine.
+description: My works at Oakland North and Business Weekly Magazine.
 nav: true
 nav_order: 1
 ---

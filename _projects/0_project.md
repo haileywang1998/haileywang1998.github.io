@@ -14,7 +14,7 @@ Mavin Carter-Griffin has lived on the street in Oakland for 14 years. She used t
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/homelesswomanone" title="county map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/homelesswomanone.png" title="county map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -30,7 +30,7 @@ Tracylee Saelee, 40, lived at an encampment near E. 12th Median for eight years 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/homelesswomantwo" title="county map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/homelesswomantwo.png" title="county map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

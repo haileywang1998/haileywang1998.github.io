@@ -30,8 +30,6 @@ To combat car thefts, Oakland police initiated a pilot program by creating an X 
 
 The Oakland Police Department did not respond to questions from Oakland North about why the program was shut down or to requests for comments about what is being done to reduce car thefts. 
 
-A chart with three red bars for 2021, 22 and 23, showing an increase each year in car thefts, with 2023 being the highest at 12,956.
-
 <div style="min-height:628px">
   <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/3ByUT/embed.js?v=2" charset="utf-8">
   </script>

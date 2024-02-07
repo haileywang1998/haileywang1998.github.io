@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Car thefts spike in Oakland, with certain models and neighborhoods targeted
-description: another without an image
+description: Revealing car theft hotspots in Oakland
 img: assets/img/redcircles.png
 importance: 5
 category: 2023
@@ -9,6 +9,8 @@ category: 2023
 More than 12,000 vehicles have been stolen this year in Oakland, where the thefts are on a dramatic rise.
 
 Car thefts in Oakland have increased by 49% since last year, Oakland Police Department data from this fall shows, a jump that has put some residents on edge. The neighborhoods with the highest rates of car thefts include Hegenberger, Coliseum, and Lakeside — with 1,815, 300 and 298 cases, respectively. 
+
+
 
 Gilligan Brown, who has lived in Oakland for more than 25 years, had her car stolen on Aug. 1 while attending an Alicia Keys concert with her daughter at the Coliseum. She parked her silver Kia Forte in the Coliseum parking lot. When she walked back to her car after an hour, her car wasn’t there. 
 

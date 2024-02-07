@@ -4,7 +4,7 @@ title: project 5
 description: a project with a background image
 img: assets/img/1.jpg
 importance: 3
-category: 2023
+category: fun
 ---
 <div style="min-height:527px">
 <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/K0Tyy/embed.js?v=1" charset="utf-8">

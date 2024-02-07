@@ -8,53 +8,66 @@ category: 2023
 related_publications: 
 ---
 
-Mavin Carter-Griffin has lived on the street in Oakland for 14 years. She used to live in her trailer at the Wood Street encampment, once the largest homeless site in the city before it closed in April, but now parks her vintage trailer in different neighborhoods. 
+Mavin Carter-Griffin has lived on the street in Oakland for 14 years. She used to live in her trailer at the Wood Street encampment, once the largest homeless site in the city before it closed in April. Now she parks her vintage trailer in different neighborhoods, but she is often scared at night because people try to enter her vehicle. 
 
-Carter-Griffin said she is often scared at night because people will try to enter her vehicle at all hours. 
-
-“Men that come over here and try to break in,” she said. “They know there are women here, and they know that they can get away with it, so they just take advantage of our population and do whatever they want.”
-
-Carter-Griffin represents a portion of the unhoused population that faces more risks than others: women. Only about 30% of individuals experiencing homelessness are women in the U.S., however, they face more challenges than men living on the street. Some women said that when living in encampments, they live under the stress of people breaking into their cars or tents. Shelters and transitional housing for women are also insufficient compared to those for men nationally, according to HUD's Point-in-Time (PIT) count data.
-
-Data show that more women are experiencing homelessness nationally, and the number of women who found shelters are facing a sharp drop both nationally and locally. According to PIT count data, unsheltered homelessness rose by 5% among women in 2023 nationally. In California locally, sheltered homelessness among women dropped by 46% from 2021 to 2022. 
-
-Dilara Yarbrough, associate professor of criminal justice studies at San Francisco State University, said the data might not even fully present how bad the situation is. It is likely that PIT counts underestimate the number of unsheltered women. She said that some of the women who participated in her research talked about hiding at night to be safer from violence, making it harder to count them.
-
-Yarbrough said that lack of capacity could be another reason driving the percentage drop in sheltered women.
+“Men come over here and try to break in,” she said. “They know there is a woman here, and they know that they can get away with it, so they just take advantage of our population and do whatever they want.”
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/shelter.png" title="shelter image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/homelesswomanone" title="county map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A map that shows percentage change of sheltered women from 2021 to 2022 in the U.S.
+   Mavin Carter-Griffin opened up on her experience living on the street , by Hailey Wang
 </div>
 
-Generally, there are more services for unhoused men because they comprise a greater share of the total unhoused population, making it harder for women to find shelters and other services, said Elizabeth Bowen, associate professor at the University at Buffalo School of Social Work.
+In addition to the other challenges of homelessness, homeless women face a disproportionate risk of sexual violence. A study conducted by the National Library of Medicine found that 56% of homeless women and 14% of homeless men will be raped during their lifetime in the U.S. Though local data are scarce and unreliable, interviews with homeless women and nonprofit organizations suggest these challenges are also acute in Oakland.
+“Women are easily attacked. Rape and violence against women happened a lot in this encampment, but police never came to investigate,” said Needa Bee, an unhoused activist for The Village, an organization that provides services to the unhoused population. 
 
-City officials did not respond to the shortage of housing or the number of temporary beds the city offered by the time of publication.
-
-In addition to a lack of shelter options, women also face challenges living on the street. Women can experience sexual assault in homeless encampments, according to Needa Bee, an unhoused activist for The Village organization in Oakland. The E. 12th Median Encampment residents held a press conference on Sept. 21 to discuss the unsafe environment after the death of a female resident.
-
-A study conducted by National Library of Medicine found that 56% of homeless women and 14% of homeless men will be raped during their lifetime in the U.S.
-
-Tracylee Saelee, 40, lived at an encampment near E. 12th Median for eight years but recently moved into transitional housing. She said women are more vulnerable and more easily targeted. 
+Tracylee Saelee, 40, lived at an encampment near E. 12th Median for eight years but recently moved into transitional housing. She said homeless women are more vulnerable and more easily targeted. 
 
 “One time I woke up, there was some stranger undressed in front of me. I told him not to do that and I was not comfortable,” she said.
 
-Oakland Elizabeth House, a transitional housing for women and children, said they currently have 15 people on their waiting list – that’s the longest waiting list they’ve ever had, said Jackie Yancy, the executive director of the Elizabeth House. Oakland Elizabeth House has 11 beds, and each resident can stay up to 24 months. It could take years for someone on the waiting list to get a bed, Yancy said. 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/homelesswomantwo" title="county map" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+   A press conference held on Sept.12 discussed a death at the E. 12th Median Encampment. On the left is Tracylee Saelee, by Hailey Wang
+</div>
 
-Also, temporary housing might not be a good fit for everyone. Shelters have rules that make it difficult for some people to stay, especially if they have jobs requiring flexibility with curfews, or they have pets or partners they want to live with. 
+There are generally more services for unhoused men because they comprise a greater share of the total unhoused population, making it harder for women to find shelters and services, said Elizabeth Bowen, associate professor at the University at Buffalo School of Social Work.
 
-Carter-Griffin had tried living in transitional housing a few times, but she could not bear the rules and the waiting process for temporary housing so she ended up on the street again in her trailer.
+Shelters and transitional housing for women are insufficient compared to those for men nationally, according to the U.S. Department of Housing and Urban Development’s data.
 
-Substance use issues make shelter life even more challenging for some people. Yarbrough said shelters were not a good fit for people who wanted harm reduction-based options to help drug users stay housed because most temporary housing has strict regulations against drug use. If residents use drugs at the shelter, they could be kicked out. 
+Point-in-Time data show that the number of unsheltered homelessness rose by 5% among women in 2023 nationally. The number of homeless women who found shelter dropped sharply both nationally and locally. 
 
-In Oakland Elizabeth House, every resident has to take a drug test and prove they are clean before they move in. They are also required to take drug tests occasionally during their stay. If the results are positive, they will be asked to leave because drugs are strictly prohibited in the house to keep all the residents away from substance use, according to Yancy.
+According to Point-in-Time count data, the number of homeless women in California doubled from 2021 to 2022, and sheltered homelessness among women dropped by 46% from 2021 to 2022. This means that there are more homeless women on the street.
 
-Bowen and Yarbrough both suggested long-term and permanent affordable housing is the solution to increase safety for homelessness. However, in Oakland, households that received housing assistance had waited about nine years for housing, according to HUD's data. 
+Oakland city officials did not respond to questions about the shortage of housing or the number of temporary beds the city offered.
 
-“I have waited more than ten years for a house,” Saelee sighed. She finally left the street last year. She stayed at shelters from time to time during her eight-year experience of homelessness, but this is the first time she has had a long-term house to stay in. 
+<div style="min-height:544px">
+  <script type="text/javascript" defer src="https://datawrapper.dwcdn.net/K0Tyy/embed.js?v=2" charset="utf-8">
+  </script>
+  <noscript>
+    <img src="https://datawrapper.dwcdn.net/K0Tyy/full.png" alt="a map" />
+  </noscript>
+</div>
+<div class="caption">
+  A map that shows percentage change of sheltered women from 2021 to 2022 in the US, by Hailey Wang
+</div>
 
-“It is good to get a paycheck every week and finally have a decent place to get back to every day,” she said. 
+Dilara Yarbrough, associate professor of criminal justice studies at San Francisco State University, said the data may not capture the true scale of homelessness. It is likely that Point-in-Time counts underestimate the number of unsheltered women, she said. Some of the women who participated in her research talked about hiding at night to be safe, making it harder to count them.
+
+Oakland Elizabeth House, which provides transitional housing for women and children, currently has 15 people on their waiting list, the most they’ve ever had. They have 11 beds, and each resident can stay up to 24 months.  Executive Director Jackie Yancy said that the list was longer because funds granted during the COVID-19 were gone, and many women had to leave their previous housing program. 
+
+Even when shelter options are available, temporary housing is not a good fit for everyone. Shelters have rules that make it difficult for some people to stay, especially if they have pets, partners, or  jobs requiring flexibility with curfews. 
+
+Carter-Griffin tried living in transitional housing a few times, but she said she could not bear the rules and the waiting process for temporary housing, so she ended up on the street again.
+
+Substance-use issues can also make shelter life challenging. In Oakland Elizabeth House, every resident has to take a drug test before they move in. They are also required to take drug tests during their stay. If the results are positive, they will be asked to leave because drugs are prohibited in the house, according to Yancy.
+
+Bowen and Yarbrough both suggested long-term and permanent affordable housing is the solution to homelessness. However, in Oakland, households that received housing assistance waited about nine years on average for housing, according to HUD's data. 
+
+“It is good to get a paycheck every week and finally have a decent place to get back to,” Saelee said, reflecting on her eight-year wait for housing. 

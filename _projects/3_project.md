@@ -14,7 +14,7 @@ Significant correlations have been identified between factors such as an unhealt
 To analyze the link between depression and other diseases and habits, I collected data on depression rates in each county in the US along with the rate of other health outcomes in 2021, to investigate the correlation between depression and other factors.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/circles.img" title="county map" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/circles.png" title="county map" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

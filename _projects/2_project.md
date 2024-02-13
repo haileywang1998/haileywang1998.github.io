@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: https://readymag.com/u2950846684/4380060/
+redirect: https://readymag.com/u2950846684/4380060/
 title: Oakland's Bulky Block Parties
 description: a data-driven project discussing illegal dumping solution
 img: assets/img/dumpung.png

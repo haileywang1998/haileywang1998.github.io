@@ -3,7 +3,8 @@ layout: page
 title: projects
 permalink: /projects/
 description: 
-nav: true
+# nav: true
+nav: false
 nav_order: 2
 display_categories: [2023, 2019]
 horizontal: false
